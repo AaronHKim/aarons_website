@@ -1,1 +1,7 @@
+logo: "./assets/img/WebsitePhoto.jpeg"
+
+title: Eden Molina
+description: Welcome to my website!
+show_downloads: false
+google_analytics_code: UA-131831879-1
 theme: jekyll-theme-minimal
